@@ -1,47 +1,27 @@
-# 👋 Welcome to My GitHub Profile!
+# 💫 About Me:
+🔭 I’m currently working on  <br>- Building scalable backend systems using Node.js & Express  <br>- Cloud deployments on GCP (Compute Engine, Storage, OAuth integrations)  <br>- AI-powered automation tools (video generation, content pipelines)<br><br>👯 I’m looking to collaborate on  <br>- Open-source backend or DevOps projects  <br>- AI/ML based SaaS tools  <br>- System design heavy projects  <br><br>🤝 I’m looking for help with  <br>- System architecture & distributed systems  <br>- Optimizing large-scale cloud infrastructure  <br>- Production-grade DevOps practices  <br><br>🌱 I’m currently learning  <br>- System Design<br>- Networking Concepts  <br>- DSA<br><br>💬 Ask me about  <br>- Backend Development (Node.js, REST APIs)  <br>- Frontend Development <br>- GCP deployments & server setup  <br>- AI content automation workflows  <br><br>⚡ Fun fact  <br>I enjoy breaking complex systems into simple visual explanations 🚀
 
-Hello! I'm **Pratyush Tiwari** 👨‍💻, a beginner developer passionate about learning and building new things! 🚀  
-Feel free to explore my repositories, try out my projects, or just say hi! 👋
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nofoundry/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/-pratyushtiwari) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@PratyushTiwari-cr8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratyushtiwari446@gmail.com) 
 
-## 🌱 About Me
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=cr-8&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=cr-8&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cr-8&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🧑‍💻 **Learning**: Currently diving into **programming**, **Arduino projects**, and **basic game development**.
-- 📚 **Languages I'm learning**: C++, Python, JavaScript.
-- 💬 Feel free to ask me anything about **beginner programming** or **Arduino projects**!
-- 📫 **Reach out**: **Pratyushtiwari446@gmail.com** or connect with me on **[LinkedIn](www.linkedin.com/in/pratyush-tiwari-cr8)**.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=cr-8&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
-## 🌱 What I'm Learning
-
-- **Currently focusing on**: Web development -  {React and Java Script}.
-- **Next Goal**: Build more hands-on projects and explore coding challenges to sharpen my skills.
-
----
-
-## 💬 Let's Connect!
-
-- 📧 **Email me**: [Pratyushtiwari446@gmail.com]
-- 💼 **Connect on LinkedIn**: [www.linkedin.com/in/pratyush-tiwari-cr8]
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=cr-8&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=cr-8&icon=10&color=13)](https://visitcount.itsvg.in)
 
-## 🛠️ Tools & Technologies
-
-- **Languages**: C++, C, JavaScript (Still learning!)
-- **Frameworks**: HTML, CSS (for web development)
-- **Hardware**: Arduino (exploring microcontrollers) , ESP32
-
----
-
-## 📜 License
-
-All of my projects are open source and free to use. Feel free to check the license for more info.
-
----
-
-## 🔄 Support
-
-If you like my projects or want to collaborate, please **⭐ star** them! Your support means a lot to me as a beginner. 😄
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
