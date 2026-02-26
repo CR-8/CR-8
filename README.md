@@ -95,19 +95,14 @@ I enjoy converting complex systems into clean, structured architectures 🚀
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CR-8&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CR-8&layout=compact&theme=dark&hide_border=true" height="165" />
-</p>
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CR-8&show_icons=true&theme=gruvbox&hide_border=true)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=CR-8&theme=dark&hide_border=true" />
-</p>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CR-8&layout=compact&theme=gruvbox&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=CR-8&theme=gruvbox)](https://git.io/streak-stats)
 
 ---
 
 ## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CR-8&theme=radical&no-frame=true&margin-w=8" />
-</p>
+![Trophy](https://github-profile-trophy.vercel.app/?username=CR-8&theme=gruvbox&no-frame=true)
