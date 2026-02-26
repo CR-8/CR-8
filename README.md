@@ -93,11 +93,11 @@ I enjoy converting complex systems into clean, structured architectures 🚀
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CR-8&show_icons=true&theme=gruvbox&hide_border=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CR-8&show_icons=true&theme=gruvbox&hide_border=true)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CR-8&layout=compact&theme=gruvbox&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CR-8&layout=compact&theme=gruvbox&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=CR-8&theme=gruvbox)](https://git.io/streak-stats)
 
@@ -105,4 +105,4 @@ I enjoy converting complex systems into clean, structured architectures 🚀
 
 ## 🏆 GitHub Achievements
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=CR-8&theme=gruvbox&no-frame=true)
+![Trophy](https://github-profile-trophy.vercel.app/?username=CR-8&theme=gruvbox&no-frame=true&margin-w=8)
