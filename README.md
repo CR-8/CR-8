@@ -91,10 +91,12 @@ fun_fact: I enjoy turning chaos into clean architecture 🚀
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CR-8&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CR-8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=CR-8&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CR-8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=CR-8&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CR-8&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -104,7 +106,7 @@ fun_fact: I enjoy turning chaos into clean architecture 🚀
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=CR-8&theme=tokyonight&no-frame=true&margin-w=8&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=CR-8&theme=tokyonight&no-frame=true&margin-w=8&column=6)
 
 </div>
 
