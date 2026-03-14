@@ -9,9 +9,9 @@
 ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝      ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝
 ```
 
-### Backend Engineer  ·  Cloud & DevOps  ·  AI Builder
+### CS Undergrad  ·  SDE Intern  ·  Full-Stack Builder
 
-*I turn complex system problems into clean, scalable architectures*
+*B.Tech CS (Data Science) @ SRMCEM · GPA 8.11 · Graduating 2027*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyushtiwari/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@PratyushTiwari-cr8)
@@ -26,64 +26,110 @@
 ## `$ whoami`
 
 ```yaml
-name: Pratyush Tiwari
-role: Backend Engineer
-location: India
-focus:
-  - Scalable REST APIs with Node.js & Express
-  - Cloud-native deployments on AWS & GCP
-  - AI-powered video & content automation pipelines
-  - Dockerized microservices & DevOps workflows
-currently_learning:
-  - System Design (HLD & LLD)
-  - Distributed Systems
-  - Advanced Networking & DSA
-open_to: [Backend OSS, Cloud/DevOps, AI SaaS Tools]
-fun_fact: I enjoy turning chaos into clean architecture 🚀
+name:     Pratyush Tiwari
+status:   CS Undergrad  →  B.Tech CS (Data Science), 2027
+role:     SDE Intern @ Matrix Innovation  (Dec 2024 – Feb 2026)
+location: Lucknow, India
+
+shipped:
+  - Gantavya   →  event registration + payments platform  (150+ attendees)
+  - Chronicle  →  docs platform with 95+ Lighthouse score
+  - NEOM India →  e-commerce with Razorpay + logistics APIs
+  - Lumi       →  AI-powered UI analyzer using Gemini API
+
+grinding:
+  - DSA        →  arrays, trees, graphs, DP, sliding window
+  - OS         →  processes, threads, scheduling, memory mgmt
+  - CN         →  TCP/IP, DNS, HTTP/S, sockets, routing
+  - COA        →  CPU pipeline, cache, memory hierarchy
+  - System Design → HLD, LLD, distributed systems
+
+vibe: build things → break things → understand why → repeat 🔁
 ```
+
+---
+
+## 💼 Experience
+
+**Software Development Engineer Intern** · [Matrix Innovation](https://matrix.com) · *Dec 2024 – Feb 2026 · Remote*
+
+- Shipped full-stack features with **Next.js 15/16**, **TypeScript**, deployed on **AWS**, **GCP**, and **Vercel**
+- Built internal dashboards with real-time data feeds, auth, and role-based access control
+- Maintained **CI/CD pipelines** via GitHub Actions with automated testing and PR review workflows
+- Worked in **Agile SDLC** — sprint planning, performance profiling, security optimization, iterative deploys
+
+---
+
+## 🚀 Projects
+
+| Project | Stack | Highlight |
+|---|---|---|
+| **[Gantavya](https://gantavya.roboticsclubsrmcem.in)** — Event Registration | Next.js 16, Supabase, Razorpay | 150+ attendees, QR pass gen, real-time DB, zero downtime |
+| **[Chronicle](https://learn.roboticsclubsrmcem.in)** — Docs Platform | Next.js 16, Fumadocs, MDX | 95+ Lighthouse, fuzzy search, nested dynamic routing |
+| **[NEOM India](https://neomindia.co.in)** — E-Commerce | Next.js, REST APIs, SQL | SSR cart + checkout, Razorpay webhooks, logistics APIs |
+| **[Lumi](https://lumi-kohl.vercel.app)** — AI UI Analyzer | Next.js 16, Gemini API, WCAG | Serverless AI pipeline, accessibility + layout scoring |
+
+---
+
+## 🌱 Currently Grinding
+
+> Fundamentals first — the stuff that separates builders from engineers
+
+| Subject | Focus Areas | Status |
+|---|---|---|
+| **DSA** | Arrays, Trees, Graphs, DP, Sliding Window | 🔄 Active |
+| **OS** | Processes, Threads, Scheduling, Memory Mgmt | 📖 Learning |
+| **Computer Networks** | TCP/IP, DNS, HTTP/S, Sockets, Routing | 📖 Learning |
+| **COA** | CPU Pipeline, Cache, Memory Hierarchy | 📖 Learning |
+| **System Design** | HLD, LLD, Distributed Systems, CAP theorem | 🔄 Active |
+| **DBMS** | Normalization, Indexing, Transactions, ACID | 🔜 Next |
 
 ---
 
 ## 🛠 Tech Stack
 
-**Backend**
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![MDX](https://img.shields.io/badge/MDX-1B1F24?style=flat-square&logo=mdx&logoColor=white)
+
+**Backend**
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 **Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 **Databases**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-**Tools**
+---
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+## 🏆 Achievements
+
+- 🥇 **Hackathon Winner** — 1st place
+- 🥉 **Ideathon** — 3rd Place
+- 💻 **Coding Competition** — Rank 11 / 125
+- 🤖 **Robotics Event** — Rank 3 for innovative idea
+- 🔬 **Data Science & ML Bootcamp** — 10-day training, SRMCEM
 
 ---
 
@@ -91,10 +137,13 @@ fun_fact: I enjoy turning chaos into clean architecture 🚀
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=CR-8&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CR-8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CR-8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CR-8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<br/>
+</div>
+
+<div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CR-8&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
@@ -102,17 +151,7 @@ fun_fact: I enjoy turning chaos into clean architecture 🚀
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=CR-8&theme=tokyonight&no-frame=true&margin-w=8&column=6)
-
-</div>
-
----
-
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -124,8 +163,8 @@ fun_fact: I enjoy turning chaos into clean architecture 🚀
 
 <div align="center">
 
-*"Any sufficiently well-architected system is indistinguishable from magic."*
+*"First make it work. Then make it right. Then make it fast."*
 
-**Thanks for visiting — drop a ⭐ on something if it helped you!**
+**Always learning. Always building. Open to collaborate — let's connect! 🤝**
 
 </div>
